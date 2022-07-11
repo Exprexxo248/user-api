@@ -1,0 +1,10 @@
+{
+  "cSpell.words": [
+    "boto",
+    "botocore",
+    "dotenv",
+    "fastapi",
+    "Pydantic",
+    "uvicorn"
+  ]
+}

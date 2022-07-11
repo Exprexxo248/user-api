@@ -1,0 +1,26 @@
+backend/
+├─.env
+├─apis/
+│ └─user/
+│   └─history.py
+├─core/
+│ └─config.py
+├─db/
+│ ├─base.py
+│ ├─base_class.py
+│ ├─models/
+│ │ ├─jobs.py
+│ │ └─users.py
+│ └─session.py
+├─main.py
+├─requirements.txt
+├─static/
+│ └─images/
+│   └─logo.png
+└─templates/
+  ├─components/
+  │ └─navbar.html
+  ├─general_pages/
+  │ └─homepage.html
+  └─shared/
+    └─base.html

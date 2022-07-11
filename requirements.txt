@@ -1,0 +1,14 @@
+# python==3.9.0
+fastapi
+python-multipart
+beanie
+boto3
+botocore
+requests
+python-dotenv
+pymongo[srv]
+bson
+motor
+uvicorn
+pydantic
+black
